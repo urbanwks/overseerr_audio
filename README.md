@@ -1,3 +1,5 @@
+Attempt to add music/audiobook capability to Overseerr. I don't expect that I will, but worth a shot.
+
 <p align="center">
 <img src="./public/logo_full.svg" alt="Overseerr" style="margin: 20px 0;">
 </p>
@@ -14,6 +16,8 @@
 <a href="#contributors-"><img alt="All Contributors" src="https://img.shields.io/badge/all_contributors-99-orange.svg"/></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
+
+
 
 **Overseerr** is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as **[Sonarr](https://sonarr.tv/)**, **[Radarr](https://radarr.video/)**, and **[Plex](https://www.plex.tv/)**!
 
